@@ -13,9 +13,6 @@ env/
 # VSCode
 .vscode/
 
-# Data and outputs
-outputs/
-*.csv
 
 # OS files
 .DS_Store

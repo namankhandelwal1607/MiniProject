@@ -79,3 +79,7 @@ python main.py
 - The virtual environment and output files are excluded from version control via `.gitignore`.
 
 ---
+
+10 -------- 0%
+100 -------- 70%
+200 -------- 71%
